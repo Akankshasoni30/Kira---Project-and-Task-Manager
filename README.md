@@ -137,3 +137,85 @@ npm install
 
 # Run development server
 npm run serve
+
+Frontend runs by default on:
+👉 http://localhost:8081
+
+🔧 Backend Setup
+Prerequisites
+
+Java 17+
+
+Maven
+
+MySQL Server
+
+Steps
+# Navigate to backend folder
+cd ../backend
+
+# Configure your MySQL credentials in src/main/resources/application.properties
+spring.datasource.url=jdbc:mysql://localhost:3306/kira_db
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+
+# Build and run the application
+mvn spring-boot:run
+
+
+Backend runs by default on:
+👉 http://localhost:8080
+
+🧑‍💼 Roles Overview
+Role	Description	Permissions
+Admin	System manager	Manage projects, tasks, and users; view analytics
+User	Task assignee	View and update tasks; comment and attach files
+📡 API Endpoints Overview
+Endpoint	Method	Description
+/api/auth/login	POST	Authenticate user via JWT
+/api/auth/signup	POST	Register a new user
+/api/projects	GET / POST / PUT / DELETE	CRUD operations for projects
+/api/tasks	GET / POST / PUT / DELETE	CRUD operations for tasks
+/api/tasks/assign	POST	Assign task to user (triggers email)
+/api/comments	POST	Add comment on a task
+/api/attachments	POST	Add attachment to a task
+🧾 Export Features
+
+Export task list to CSV / Excel
+
+Filter tasks by name, status, or assignee before export
+
+🧰 Useful Commands Summary
+Purpose	Command
+Start frontend	npm run serve
+Build frontend	npm run build
+Start backend	mvn spring-boot:run
+Build backend JAR	mvn clean package
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit a pull request.
+
+👉 Open an Issue
+
+📜 License
+
+This project is licensed under the MIT License.
+See the LICENSE
+ file for details.
+
+💖 Acknowledgements
+
+Vue.js
+
+Spring Boot
+
+Vuetify
+
+ApexCharts
+
+JWT
+
+JavaMailSender
+
+<p align="center">Developed with ❤️ by <a href="https://github.com/Akankshasoni30">Akanksha Soni</a></p> ```
