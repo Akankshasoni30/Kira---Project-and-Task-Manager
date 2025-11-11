@@ -172,5 +172,5 @@ Backend runs by default on:
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
 
-Developed with ❤️ by [Akanksha Soni](https://github.com/Akankshasoni30)
+Developed with ❤️ by Akanksha Soni
 
