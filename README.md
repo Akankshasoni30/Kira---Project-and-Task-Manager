@@ -135,6 +135,7 @@ Frontend runs by default on:
 👉 http://localhost:8081
 
 🔧 Backend Setup
+
 Prerequisites
 Java 17+
 Maven
@@ -171,5 +172,5 @@ Backend runs by default on:
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
 
+Developed with ❤️ by [Akanksha Soni](https://github.com/Akankshasoni30)
 
-<p align="center">Developed with ❤️ by <a href="https://github.com/Akankshasoni30">Akanksha Soni</a></p>
