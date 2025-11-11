@@ -134,6 +134,8 @@ npm run serve
 Frontend runs by default on:
 👉 http://localhost:8081
 
+```
+
 🔧 Backend Setup
 
 Prerequisites
@@ -145,6 +147,7 @@ Steps
 cd ../backend
 
 📄 Configure Database & Mail
+```bash
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/kira_db
@@ -166,6 +169,7 @@ mvn spring-boot:run
 
 Backend runs by default on:
 👉 http://localhost:8080
+```
 
 🤝 Contributing
 
