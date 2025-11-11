@@ -8,13 +8,6 @@
 
 ---
 
-## ✨ Tagline
-
-> **Visualize. Manage. Deliver.**  
-> Kira empowers teams to streamline project planning, track progress visually, and boost collaboration — all in one elegant dashboard.
-
----
-
 ## 🧩 About
 
 **Kira** is an intuitive full-stack **Project & Task Management System** built with **Vue.js (Vuetify)** and **Spring Boot**.  
@@ -143,21 +136,29 @@ Frontend runs by default on:
 
 🔧 Backend Setup
 Prerequisites
-
 Java 17+
-
 Maven
-
 MySQL Server
-
 Steps
 # Navigate to backend folder
 cd ../backend
 
-# Configure your MySQL credentials in src/main/resources/application.properties
-spring.datasource.url=jdbc:mysql://localhost:3306/kira_db
-spring.datasource.username=your_username
-spring.datasource.password=your_password
+📄 Configure Database & Mail
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/kira_db
+    username: your_db_username
+    password: your_db_password
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: your_email@gmail.com          # Replace with your Gmail address
+    password: your_app_password            # Replace with Gmail App Password
+
+
+💡 Tip: Use a Gmail App Password
+ instead of your main Gmail password for security.
 
 # Build and run the application
 mvn spring-boot:run
@@ -165,29 +166,10 @@ mvn spring-boot:run
 Backend runs by default on:
 👉 http://localhost:8080
 
-🧰 Useful Commands Summary
-Purpose	Command
-Start frontend	npm run serve
-Build frontend	npm run build
-Start backend	mvn spring-boot:run
-Build backend JAR	mvn clean package
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
 
-💖 Acknowledgements
 
-Vue.js
-
-Spring Boot
-
-Vuetify
-
-ApexCharts
-
-JWT
-
-JavaMailSender
-
-Developed with ❤️ by <a href="https://github.com/Akankshasoni30">Akanksha Soni</a></p> ```
+<p align="center">Developed with ❤️ by <a href="https://github.com/Akankshasoni30">Akanksha Soni</a></p>
