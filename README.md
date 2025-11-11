@@ -162,28 +162,8 @@ spring.datasource.password=your_password
 # Build and run the application
 mvn spring-boot:run
 
-
 Backend runs by default on:
 👉 http://localhost:8080
-
-🧑‍💼 Roles Overview
-Role	Description	Permissions
-Admin	System manager	Manage projects, tasks, and users; view analytics
-User	Task assignee	View and update tasks; comment and attach files
-📡 API Endpoints Overview
-Endpoint	Method	Description
-/api/auth/login	POST	Authenticate user via JWT
-/api/auth/signup	POST	Register a new user
-/api/projects	GET / POST / PUT / DELETE	CRUD operations for projects
-/api/tasks	GET / POST / PUT / DELETE	CRUD operations for tasks
-/api/tasks/assign	POST	Assign task to user (triggers email)
-/api/comments	POST	Add comment on a task
-/api/attachments	POST	Add attachment to a task
-🧾 Export Features
-
-Export task list to CSV / Excel
-
-Filter tasks by name, status, or assignee before export
 
 🧰 Useful Commands Summary
 Purpose	Command
@@ -195,14 +175,6 @@ Build backend JAR	mvn clean package
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
-
-👉 Open an Issue
-
-📜 License
-
-This project is licensed under the MIT License.
-See the LICENSE
- file for details.
 
 💖 Acknowledgements
 
@@ -218,4 +190,4 @@ JWT
 
 JavaMailSender
 
-<p align="center">Developed with ❤️ by <a href="https://github.com/Akankshasoni30">Akanksha Soni</a></p> ```
+Developed with ❤️ by <a href="https://github.com/Akankshasoni30">Akanksha Soni</a></p> ```
