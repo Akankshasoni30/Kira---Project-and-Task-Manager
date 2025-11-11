@@ -127,7 +127,7 @@ This project includes two modules:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Kira.git
+git clone https://github.com/Akankshasoni30/Kira---Project-and-Task-Manager
 
 # Go to frontend folder
 cd Kira/frontend
