@@ -15,7 +15,7 @@ It helps organizations manage multiple projects, assign tasks to users, and trac
 
 It includes **JWT-based authentication**, **role-based access**, and **email notifications** when new tasks are assigned — ensuring transparency and smooth coordination between Admins and Users.
 
-[🎯 Report Bug](https://github.com/yourusername/Kira/issues) · [💡 Request Feature](https://github.com/yourusername/Kira/issues)
+[🎯 Report Bug](https://github.com/Akankshasoni30/Kira---Project-and-Task-Manager/issues) · [💡 Request Feature](https://github.com/Akankshasoni30/Kira---Project-and-Task-Manager/issues)
 
 ---
 
