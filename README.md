@@ -73,7 +73,7 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 ## 🎬 Demonstration
 
 <p align="center">
-  ▶️ Watch the full demo on <a href="https://youtu.be/your-demo-link">YouTube 🎥</a>
+  ▶️ Watch the full demo on <a href="https://www.youtube.com/watch?v=iDJpNhDp6xk">YouTube 🎥</a>
 </p>
 
 ---
