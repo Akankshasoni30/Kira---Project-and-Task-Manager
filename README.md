@@ -83,7 +83,7 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 ### 📊 Admin vs User Dashboard
 <div align="center">
  <img src="https://github.com/user-attachments/assets/44bc8975-2fda-4eab-8fc2-8839c441fb75" width="45%" height="50%" alt="Admin Dashboard"/>
- <img src="https://github.com/user-attachments/assets/abc3afe3-4095-4ec3-9a93-3c0c23b90185" width="45%" height="50%" alt="User Dashboard"/>
+ <img src="https://github.com/user-attachments/assets/d0e31d35-1c05-4e8c-aa2b-c2679ed1e456" width="45%" height="50%" alt="User Dashboard"/>
 </div>
 <p align="center"><em>Left: Admin Dashboard | Right: User Dashboard</em></p>
 
