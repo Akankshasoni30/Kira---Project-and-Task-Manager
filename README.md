@@ -1,4 +1,4 @@
-<img width="1888" height="866" alt="image" src="https://github.com/user-attachments/assets/c4d746ff-1095-45c7-bd67-4f424b03d862" /># 🧭 Kira - Smart Project & Task Management System
+# 🧭 Kira - Smart Project & Task Management System
 
 ![Built With Love](https://img.shields.io/badge/built%20with-love-red)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -82,9 +82,8 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 
 ### 📊 Admin vs User Dashboard
 <div align="center">
- <img src="https://github.com/user-attachments/assets/44bc8975-2fda-4eab-8fc2-8839c441fb75" width="45%" alt="User Dashboard"/>
-" width="45%" alt="Admin Dashboard"/>
-  <img src="https://github.com/user-attachments/assets/user-dashboard" width="45%" alt="User Dashboard"/>
+ <img src="https://github.com/user-attachments/assets/44bc8975-2fda-4eab-8fc2-8839c441fb75" width="45%" alt="Admin Dashboard"/>
+ <img src="https://github.com/user-attachments/assets/abc3afe3-4095-4ec3-9a93-3c0c23b90185" width="45%" alt="User Dashboard"/>
 </div>
 <p align="center"><em>Left: Admin Dashboard | Right: User Dashboard</em></p>
 
@@ -92,8 +91,8 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 
 ### 📋 Project Management
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/admin-projects" width="45%" alt="Admin Project Management"/>
-  <img src="https://github.com/user-attachments/assets/user-projects" width="45%" alt="User Project View"/>
+  <img src="https://github.com/user-attachments/assets/1e72efc3-cdeb-41a6-8a2b-9e36ba6c22c5" width="45%" alt="Admin Project Management"/>
+  <img src="https://github.com/user-attachments/assets/0bd840c5-52b8-4996-8c61-5f246ebee673" width="45%" alt="User Project View"/>
 </div>
 <p align="center"><em>Left: Admin Project Management | Right: User Project View</em></p>
 
@@ -101,8 +100,8 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 
 ### 🧩 Task Board (Kanban)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/admin-tasks" width="45%" alt="Admin Task Board"/>
-  <img src="https://github.com/user-attachments/assets/user-tasks" width="45%" alt="User Task Board"/>
+  <img src="https://github.com/user-attachments/assets/20f6ac17-dffd-4a7a-864d-e2fc4e48b9b5" width="45%" alt="Admin Task Board"/>
+  <img src="https://github.com/user-attachments/assets/4f8f325f-513b-4335-b49c-86767655b8a3" width="45%" alt="User Task Board"/>
 </div>
 <p align="center"><em>Left: Admin Task Board | Right: User Task Board</em></p>
 
@@ -110,8 +109,8 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 
 ### 🌗 Dark & Light Mode
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/dark-mode" width="45%" alt="Dark Theme"/>
-  <img src="https://github.com/user-attachments/assets/light-mode" width="45%" alt="Light Theme"/>
+  <img src="https://github.com/user-attachments/assets/53edd6c2-abf7-4c5c-94e2-bfd557d7bc1d" width="45%" alt="Dark Theme"/>
+  <img src="https://github.com/user-attachments/assets/8b9ee5ce-5b06-49f5-a1d9-ec33dcb6e32e" width="45%" alt="Light Theme"/>
 </div>
 <p align="center"><em>Left: Dark Mode | Right: Light Mode</em></p>
 
