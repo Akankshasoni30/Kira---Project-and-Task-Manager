@@ -87,7 +87,7 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 </div>
 <p align="center"><em>Left: Admin Dashboard | Right: User Dashboard</em></p>
 
----
+
 
 ### 📋 Project Management
 <div align="center">
@@ -96,7 +96,7 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 </div>
 <p align="center"><em>Left: Admin Project Management | Right: User Project View</em></p>
 
----
+
 
 ### 🧩 Task Board (Kanban)
 <div align="center">
@@ -105,13 +105,14 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 </div>
 <p align="center"><em>Left: Admin Task Board | Right: User Task Board</em></p>
 
----
+
 
 ### 🌗 Dark Mode
 <div align="center">
   <img src="https://github.com/user-attachments/assets/53edd6c2-abf7-4c5c-94e2-bfd557d7bc1d" width="45%" height="50%" alt="Dark Theme"/>
   
 ---
+
 
 ## ⚙️ Project Setup
 
