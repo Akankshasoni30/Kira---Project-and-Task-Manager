@@ -1,4 +1,4 @@
-# 🧭 Kira - Smart Project & Task Management System
+<img width="1888" height="866" alt="image" src="https://github.com/user-attachments/assets/c4d746ff-1095-45c7-bd67-4f424b03d862" /># 🧭 Kira - Smart Project & Task Management System
 
 ![Built With Love](https://img.shields.io/badge/built%20with-love-red)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -80,25 +80,40 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 
 ## 📸 Screenshots
 
-<h3 align="center">📊 Admin Dashboard</h3>
+### 📊 Admin vs User Dashboard
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-1" width="600" alt="Admin Dashboard"/>
+  <img src="<img width="1888" height="866" alt="image" src="https://github.com/user-attachments/assets/44bc8975-2fda-4eab-8fc2-8839c441fb75" />
+" width="45%" alt="Admin Dashboard"/>
+  <img src="https://github.com/user-attachments/assets/user-dashboard" width="45%" alt="User Dashboard"/>
 </div>
+<p align="center"><em>Left: Admin Dashboard | Right: User Dashboard</em></p>
 
-<h3 align="center">📋 Project Management</h3>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-2" width="600" alt="Project Management"/>
-</div>
+---
 
-<h3 align="center">🧩 Task Kanban Board</h3>
+### 📋 Project Management
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-3" width="600" alt="Task Board"/>
+  <img src="https://github.com/user-attachments/assets/admin-projects" width="45%" alt="Admin Project Management"/>
+  <img src="https://github.com/user-attachments/assets/user-projects" width="45%" alt="User Project View"/>
 </div>
+<p align="center"><em>Left: Admin Project Management | Right: User Project View</em></p>
 
-<h3 align="center">🌗 Dark & Light Theme</h3>
+---
+
+### 🧩 Task Board (Kanban)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-4" width="600" alt="Dark & Light Mode"/>
+  <img src="https://github.com/user-attachments/assets/admin-tasks" width="45%" alt="Admin Task Board"/>
+  <img src="https://github.com/user-attachments/assets/user-tasks" width="45%" alt="User Task Board"/>
 </div>
+<p align="center"><em>Left: Admin Task Board | Right: User Task Board</em></p>
+
+---
+
+### 🌗 Dark & Light Mode
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dark-mode" width="45%" alt="Dark Theme"/>
+  <img src="https://github.com/user-attachments/assets/light-mode" width="45%" alt="Light Theme"/>
+</div>
+<p align="center"><em>Left: Dark Mode | Right: Light Mode</em></p>
 
 ---
 
