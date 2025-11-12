@@ -92,7 +92,7 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 ### 📋 Project Management
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1e72efc3-cdeb-41a6-8a2b-9e36ba6c22c5" width="45%" height="50%" alt="Admin Project Management"/>
-  <img src="https://github.com/user-attachments/assets/0bd840c5-52b8-4996-8c61-5f246ebee673" width="45%" height="50%" alt="User Project View"/>
+  <img src="https://github.com/user-attachments/assets/cbc727c3-8d47-4aba-9889-ed4b208d97be" width="45%" height="50%" alt="User Project View"/>
 </div>
 <p align="center"><em>Left: Admin Project Management | Right: User Project View</em></p>
 
@@ -101,7 +101,7 @@ It includes **JWT-based authentication**, **role-based access**, and **email not
 ### 🧩 Task Board (Kanban)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/20f6ac17-dffd-4a7a-864d-e2fc4e48b9b5" width="45%" height="50%" alt="Admin Task Board"/>
-  <img src="https://github.com/user-attachments/assets/4f8f325f-513b-4335-b49c-86767655b8a3" width="45%" height="50%" alt="User Task Board"/>
+  <img src="https://github.com/user-attachments/assets/86cfa08e-e165-49b1-8cda-fdac81a8838d" width="45%" height="50%" alt="User Task Board"/>
 </div>
 <p align="center"><em>Left: Admin Task Board | Right: User Task Board</em></p>
 
